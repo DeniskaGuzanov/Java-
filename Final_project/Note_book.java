@@ -33,7 +33,7 @@ public class Note_book {
     String nameLaptop;
     String collorLaptop;
     String operationSystem;
-    int Price;
+    int price;
 
     
 }
